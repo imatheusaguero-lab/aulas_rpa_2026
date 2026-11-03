@@ -1,3 +1,122 @@
 2026-11-02 10:49:29 | INFO     | Encerrando navegador...
 2026-11-02 10:49:31 | INFO     | Navegador encerrado.
 2026-11-02 10:49:31 | INFO     | Fim da execução.
+2026-11-02 18:10:07 | INFO     | Iniciando a automação Harry Potter.
+2026-11-02 18:10:07 | INFO     | Configurações de autenticação carregadas.
+2026-11-02 18:10:11 | INFO     | Navegador Chrome iniciado.
+2026-11-02 18:10:13 | INFO     | Página de login acessada.
+2026-11-02 18:10:14 | INFO     | Cookies da página de login aceitos.
+2026-11-02 18:10:15 | DEBUG    | Campo de e-mail preenchido (valor não registrado).
+2026-11-02 18:10:15 | DEBUG    | Campo de senha preenchido (valor não registrado).
+2026-11-02 18:10:16 | INFO     | Botão de login acionado (autenticação ainda não confirmada).
+2026-11-02 18:10:19 | INFO     | Mudança de URL detectada após o login.
+2026-11-02 18:10:26 | INFO     | Loja acessada: https://harrypottershop.com/collections/gifts/Under-$10
+2026-11-02 18:10:26 | DEBUG    | Título HTML: Official Harry Potter Gifts | Harry Potter Shop US – tagged "Under $10"
+2026-11-02 18:10:27 | INFO     | Cookies da loja aceitos.
+2026-11-02 18:10:27 | INFO     | Modal fechado: Stay in this site.
+2026-11-02 18:10:28 | DEBUG    | Clique número 1 no Load More realizado.
+2026-11-02 18:10:29 | INFO     | Produtos carregados: 18 → 30.
+2026-11-02 18:10:29 | INFO     | Load More não encontrado; encerrando a busca com 30 produtos.
+2026-11-02 18:10:29 | INFO     | Iniciando extração de 30 cartões.
+2026-11-02 18:10:30 | DEBUG    | Produto 1 extraído: Peppermint Toads Chocolate | $9.00 | https://harrypottershop.com/products/peppermint-toads-chocolate
+2026-11-02 18:10:30 | DEBUG    | Produto 2 extraído: Bottled Butterbeer | $7.00 | https://harrypottershop.com/products/bottled-butterbeer
+2026-11-02 18:10:30 | DEBUG    | Produto 3 extraído: Felix Felicis Liquid Sweets | $10.00 | https://harrypottershop.com/products/felix-felicis-liquid-sweets
+2026-11-02 18:10:30 | DEBUG    | Produto 4 extraído: Love Potion Liquid Sweets | $10.00 | https://harrypottershop.com/products/love-potion-liquid-sweets
+2026-11-02 18:10:30 | DEBUG    | Produto 5 extraído: Hogwarts Express Replica Ticket | $4.00 | https://harrypottershop.com/products/hogwarts-express-replica-ticket
+2026-11-02 18:10:30 | DEBUG    | Produto 6 extraído: Bottled Butterbeer - 25th Anniversary | $7.00 | https://harrypottershop.com/products/bottled-butterbeer-25th-anniversary
+2026-11-02 18:10:30 | DEBUG    | Produto 7 extraído: The Golden Snitch Keyring | $10.00 | https://harrypottershop.com/products/golden-snitch-3d-key-chain
+2026-11-02 18:10:30 | DEBUG    | Produto 8 extraído: Marauder's Map Socks | $6.00 | https://harrypottershop.com/products/marauders-map-socks
+2026-11-02 18:10:30 | DEBUG    | Produto 9 extraído: Scabbers Plush | $10.00 | https://harrypottershop.com/products/scabbers-plush
+2026-11-02 18:10:30 | DEBUG    | Produto 10 extraído: House Mascot Gryffindor Socks | $8.00 | https://harrypottershop.com/products/house-mascot-gryffindor-socks
+2026-11-02 18:10:30 | DEBUG    | Produto 11 extraído: House Mascot Slytherin Socks | $8.00 | https://harrypottershop.com/products/house-mascot-slytherin-socks
+2026-11-02 18:10:31 | DEBUG    | Produto 12 extraído: House Mascot Ravenclaw Socks | $8.00 | https://harrypottershop.com/products/house-mascot-ravenclaw-socks
+2026-11-02 18:10:31 | DEBUG    | Produto 13 extraído: Luna Spectrespecs Keyring | $10.00 | https://harrypottershop.com/products/luna-spectrespecs-keyring
+2026-11-02 18:10:31 | DEBUG    | Produto 14 extraído: House Mascot Hufflepuff Socks | $8.00 | https://harrypottershop.com/products/house-mascot-hufflepuff-socks
+2026-11-02 18:10:31 | DEBUG    | Produto 15 está em promoção.
+2026-11-02 18:10:31 | DEBUG    | Produto 15 extraído: Hogwarts Crest Socks | $5.00 | https://harrypottershop.com/products/hogwarts-crest-socks
+2026-11-02 18:10:31 | DEBUG    | Produto 16 extraído: Diagon Alley Christmas Bookmark | $3.00 | https://harrypottershop.com/products/diagon-alley-christmas-bookmark
+2026-11-02 18:10:31 | DEBUG    | Produto 17 extraído: Luna Lovegood Glasses Charm | $8.00 | https://harrypottershop.com/products/luna-lovegood-glasses-charm
+2026-11-02 18:10:31 | DEBUG    | Produto 18 está em promoção.
+2026-11-02 18:10:31 | DEBUG    | Produto 18 extraído: Hogwarts Crest Sorting Hat Magnet | $5.00 | https://harrypottershop.com/products/hogwarts-crest-sorting-hat-magnet
+2026-11-02 18:10:31 | DEBUG    | Produto 19 está em promoção.
+2026-11-02 18:10:31 | DEBUG    | Produto 19 extraído: Hedwig Cosmetic Sheet Mask | $3.00 | https://harrypottershop.com/products/hedwig-cosmetic-sheet-mask
+2026-11-02 18:10:31 | WARNING  | Cartão 20 com dados vazios; ignorado.
+2026-11-02 18:10:31 | DEBUG    | Produto 21 extraído: Dobby Slider Charm | $8.00 | https://harrypottershop.com/products/dobby-slider-charm
+2026-11-02 18:10:31 | DEBUG    | Produto 22 extraído: Hermione Granger Wand Pen and Bookmark | $10.00 | https://harrypottershop.com/products/hermione-granger-wand-pen-and-bookmark
+2026-11-02 18:10:31 | DEBUG    | Produto 23 extraído: Albus Dumbledore Wand Pen and Bookmark | $10.00 | https://harrypottershop.com/products/albus-dumbledore-wand-pen-and-bookmark
+2026-11-02 18:10:32 | DEBUG    | Produto 24 extraído: Harry Potter Wand Pen and Bookmark Set | $10.00 | https://harrypottershop.com/products/harry-potter-wand-pen-and-bookmark-set
+2026-11-02 18:10:32 | DEBUG    | Produto 25 extraído: Luna Lovegood Nargles Tote Bag | $8.00 | https://harrypottershop.com/products/luna-lovegood-nargles-tote-bag
+2026-11-02 18:10:32 | DEBUG    | Produto 26 extraído: Free Dobby Canvas Tote | $8.00 | https://harrypottershop.com/products/free-dobby-canvas-tote
+2026-11-02 18:10:32 | DEBUG    | Produto 27 extraído: Bitty POP! Town - Ollivanders Wand Shop | $10.00 | https://harrypottershop.com/products/bitty-pop-town-ollivanders-wand-shop
+2026-11-02 18:10:32 | DEBUG    | Produto 28 extraído: Bitty Pop Hogwarts Express | $6.00 | https://harrypottershop.com/products/bitty-pop-hogwarts-express
+2026-11-02 18:10:32 | DEBUG    | Produto 29 extraído: Wand Canvas Tote Bag | $8.00 | https://harrypottershop.com/products/wand-canvas-tote-bag
+2026-11-02 18:10:32 | DEBUG    | Produto 30 extraído: The Chosen One Tote Bag | $8.00 | https://harrypottershop.com/products/the-chosen-one-tote-bag
+2026-11-02 18:10:32 | INFO     | Extração concluída: 29 produto(s) válido(s) de 30 cartão(ões).
+2026-11-02 18:10:32 | INFO     | CSV gerado com 29 produtos: D:\OneDrive\Documentos\05-Faculdade\04-ADS-UNIFAAT\21-RPA-\aulas_rpa_2026\AULA08\produtos_harry.csv
+2026-11-02 18:10:32 | INFO     | Arquivo de logs: D:\OneDrive\Documentos\05-Faculdade\04-ADS-UNIFAAT\21-RPA-\aulas_rpa_2026\AULA08\execucao_bot.log
+2026-11-02 18:10:32 | ERROR    | Falha ao criar ou escrever o arquivo CSV/log.
+Traceback (most recent call last):
+  File "D:\OneDrive\Documentos\05-Faculdade\04-ADS-UNIFAAT\21-RPA-\aulas_rpa_2026\AULA08\bot_products_harry.py", line 379, in <module>
+    input("Pressione Enter para encerrar...")
+  File "C:\Users\mathe\AppData\Roaming\Python\Python312\site-packages\_pytest\capture.py", line 207, in read
+    raise OSError(
+OSError: pytest: reading from stdin while output is captured!  Consider using `-s`.
+2026-11-02 18:10:32 | INFO     | Encerrando navegador...
+2026-11-02 18:10:35 | INFO     | Navegador encerrado.
+2026-11-02 18:10:35 | INFO     | Fim da execução.
+2026-11-02 18:11:10 | INFO     | Iniciando a automação Harry Potter.
+2026-11-02 18:11:10 | INFO     | Configurações de autenticação carregadas.
+2026-11-02 18:11:12 | INFO     | Navegador Chrome iniciado.
+2026-11-02 18:11:14 | INFO     | Página de login acessada.
+2026-11-02 18:11:15 | INFO     | Cookies da página de login aceitos.
+2026-11-02 18:11:16 | DEBUG    | Campo de e-mail preenchido (valor não registrado).
+2026-11-02 18:11:16 | DEBUG    | Campo de senha preenchido (valor não registrado).
+2026-11-02 18:11:16 | INFO     | Botão de login acionado (autenticação ainda não confirmada).
+2026-11-02 18:11:19 | INFO     | Mudança de URL detectada após o login.
+2026-11-02 18:11:24 | INFO     | Loja acessada: https://harrypottershop.com/collections/gifts/Under-$10
+2026-11-02 18:11:24 | DEBUG    | Título HTML: Official Harry Potter Gifts | Harry Potter Shop US – tagged "Under $10"
+2026-11-02 18:11:25 | INFO     | Cookies da loja aceitos.
+2026-11-02 18:11:25 | INFO     | Modal fechado: Stay in this site.
+2026-11-02 18:11:25 | DEBUG    | Clique número 1 no Load More realizado.
+2026-11-02 18:11:26 | INFO     | Produtos carregados: 18 → 30.
+2026-11-02 18:11:26 | INFO     | Load More não encontrado; encerrando a busca com 30 produtos.
+2026-11-02 18:11:26 | INFO     | Iniciando extração de 30 cartões.
+2026-11-02 18:11:27 | DEBUG    | Produto 1 extraído: Peppermint Toads Chocolate | $9.00 | https://harrypottershop.com/products/peppermint-toads-chocolate
+2026-11-02 18:11:27 | DEBUG    | Produto 2 extraído: Bottled Butterbeer | $7.00 | https://harrypottershop.com/products/bottled-butterbeer
+2026-11-02 18:11:27 | DEBUG    | Produto 3 extraído: Felix Felicis Liquid Sweets | $10.00 | https://harrypottershop.com/products/felix-felicis-liquid-sweets
+2026-11-02 18:11:27 | DEBUG    | Produto 4 extraído: Love Potion Liquid Sweets | $10.00 | https://harrypottershop.com/products/love-potion-liquid-sweets
+2026-11-02 18:11:27 | DEBUG    | Produto 5 extraído: Hogwarts Express Replica Ticket | $4.00 | https://harrypottershop.com/products/hogwarts-express-replica-ticket
+2026-11-02 18:11:27 | DEBUG    | Produto 6 extraído: Bottled Butterbeer - 25th Anniversary | $7.00 | https://harrypottershop.com/products/bottled-butterbeer-25th-anniversary
+2026-11-02 18:11:27 | DEBUG    | Produto 7 extraído: The Golden Snitch Keyring | $10.00 | https://harrypottershop.com/products/golden-snitch-3d-key-chain
+2026-11-02 18:11:27 | DEBUG    | Produto 8 extraído: Marauder's Map Socks | $6.00 | https://harrypottershop.com/products/marauders-map-socks
+2026-11-02 18:11:27 | DEBUG    | Produto 9 extraído: Scabbers Plush | $10.00 | https://harrypottershop.com/products/scabbers-plush
+2026-11-02 18:11:28 | DEBUG    | Produto 10 extraído: House Mascot Gryffindor Socks | $8.00 | https://harrypottershop.com/products/house-mascot-gryffindor-socks
+2026-11-02 18:11:28 | DEBUG    | Produto 11 extraído: House Mascot Slytherin Socks | $8.00 | https://harrypottershop.com/products/house-mascot-slytherin-socks
+2026-11-02 18:11:28 | DEBUG    | Produto 12 extraído: House Mascot Ravenclaw Socks | $8.00 | https://harrypottershop.com/products/house-mascot-ravenclaw-socks
+2026-11-02 18:11:28 | DEBUG    | Produto 13 extraído: Luna Spectrespecs Keyring | $10.00 | https://harrypottershop.com/products/luna-spectrespecs-keyring
+2026-11-02 18:11:28 | DEBUG    | Produto 14 extraído: House Mascot Hufflepuff Socks | $8.00 | https://harrypottershop.com/products/house-mascot-hufflepuff-socks
+2026-11-02 18:11:28 | DEBUG    | Produto 15 está em promoção.
+2026-11-02 18:11:28 | DEBUG    | Produto 15 extraído: Hogwarts Crest Socks | $5.00 | https://harrypottershop.com/products/hogwarts-crest-socks
+2026-11-02 18:11:28 | DEBUG    | Produto 16 extraído: Diagon Alley Christmas Bookmark | $3.00 | https://harrypottershop.com/products/diagon-alley-christmas-bookmark
+2026-11-02 18:11:29 | DEBUG    | Produto 17 extraído: Luna Lovegood Glasses Charm | $8.00 | https://harrypottershop.com/products/luna-lovegood-glasses-charm
+2026-11-02 18:11:29 | DEBUG    | Produto 18 está em promoção.
+2026-11-02 18:11:29 | DEBUG    | Produto 18 extraído: Hogwarts Crest Sorting Hat Magnet | $5.00 | https://harrypottershop.com/products/hogwarts-crest-sorting-hat-magnet
+2026-11-02 18:11:29 | DEBUG    | Produto 19 está em promoção.
+2026-11-02 18:11:29 | DEBUG    | Produto 19 extraído: Hedwig Cosmetic Sheet Mask | $3.00 | https://harrypottershop.com/products/hedwig-cosmetic-sheet-mask
+2026-11-02 18:11:29 | WARNING  | Cartão 20 com dados vazios; ignorado.
+2026-11-02 18:11:29 | DEBUG    | Produto 21 extraído: Dobby Slider Charm | $8.00 | https://harrypottershop.com/products/dobby-slider-charm
+2026-11-02 18:11:29 | DEBUG    | Produto 22 extraído: Hermione Granger Wand Pen and Bookmark | $10.00 | https://harrypottershop.com/products/hermione-granger-wand-pen-and-bookmark
+2026-11-02 18:11:29 | DEBUG    | Produto 23 extraído: Albus Dumbledore Wand Pen and Bookmark | $10.00 | https://harrypottershop.com/products/albus-dumbledore-wand-pen-and-bookmark
+2026-11-02 18:11:29 | DEBUG    | Produto 24 extraído: Harry Potter Wand Pen and Bookmark Set | $10.00 | https://harrypottershop.com/products/harry-potter-wand-pen-and-bookmark-set
+2026-11-02 18:11:29 | DEBUG    | Produto 25 extraído: Luna Lovegood Nargles Tote Bag | $8.00 | https://harrypottershop.com/products/luna-lovegood-nargles-tote-bag
+2026-11-02 18:11:29 | DEBUG    | Produto 26 extraído: Free Dobby Canvas Tote | $8.00 | https://harrypottershop.com/products/free-dobby-canvas-tote
+2026-11-02 18:11:30 | DEBUG    | Produto 27 extraído: Bitty POP! Town - Ollivanders Wand Shop | $10.00 | https://harrypottershop.com/products/bitty-pop-town-ollivanders-wand-shop
+2026-11-02 18:11:30 | DEBUG    | Produto 28 extraído: Bitty Pop Hogwarts Express | $6.00 | https://harrypottershop.com/products/bitty-pop-hogwarts-express
+2026-11-02 18:11:30 | DEBUG    | Produto 29 extraído: Wand Canvas Tote Bag | $8.00 | https://harrypottershop.com/products/wand-canvas-tote-bag
+2026-11-02 18:11:30 | DEBUG    | Produto 30 extraído: The Chosen One Tote Bag | $8.00 | https://harrypottershop.com/products/the-chosen-one-tote-bag
+2026-11-02 18:11:30 | INFO     | Extração concluída: 29 produto(s) válido(s) de 30 cartão(ões).
+2026-11-02 18:11:30 | INFO     | CSV gerado com 29 produtos: D:\OneDrive\Documentos\05-Faculdade\04-ADS-UNIFAAT\21-RPA-\aulas_rpa_2026\AULA08\produtos_harry.csv
+2026-11-02 18:11:30 | INFO     | Arquivo de logs: D:\OneDrive\Documentos\05-Faculdade\04-ADS-UNIFAAT\21-RPA-\aulas_rpa_2026\AULA08\execucao_bot.log
+2026-11-02 18:11:42 | INFO     | Encerrando navegador...
+2026-11-02 18:11:45 | INFO     | Navegador encerrado.
+2026-11-02 18:11:45 | INFO     | Fim da execução.
